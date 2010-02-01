@@ -16,7 +16,7 @@ Adds a warning at the top of each page visible to users that are still using Int
 
 This section describes how to install the plugin and get it working.
 
-1. Upload "myyoutubeplaylist" to the "/wp-content/plugins/" directory
+1. Upload "kill-ie6" to the "/wp-content/plugins/" directory
 2. Activate the plugin through the "Plugins" menu in WordPress
 
 == Frequently Asked Questions ==
