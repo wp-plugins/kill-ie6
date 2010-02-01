@@ -1,4 +1,4 @@
-=== My Youtube Playlist ===
+=== Kill ie6 ===
 Contributors: Jonk
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9344931
 Tags: Internet Explorer 6, warning
