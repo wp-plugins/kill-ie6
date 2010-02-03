@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Internet Explorer 6, warning
 Requires at least: 2.7.0
 Tested up to: 2.9.1
-Stable tag: 1.05
+Stable tag: 1.07
 
 Adds a warning at the top of each page visible to users that are still using Internet Explorer 6.
 
@@ -29,7 +29,7 @@ None, yet.
 
 == Changelog ==
 
-= 1.05 =
+= 1.07 =
 * Correcting folder structure
 
 = 1.0 =

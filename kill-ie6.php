@@ -3,7 +3,7 @@
 Plugin Name: Kill ie6
 Plugin URI: http://kill-ie6.pirateboy.net
 Description: Adds a warning at the top of each page visible to users that are still using Internet Explorer 6.
-Version: 1.0
+Version: 1.07
 Author: Jonk
 Author URI: http://jonk.pirateboy.net
 */
